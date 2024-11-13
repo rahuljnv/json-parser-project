@@ -1,0 +1,11 @@
+
+{
+	"name": "AAAAlbert",
+	"age": 30,
+	"is_student": false,
+	"courses": ["Math", "Science"],
+	"address": {
+	    "city": "Wonderland",
+	    "zip": "12345"
+		}
+}
